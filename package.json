@@ -11,7 +11,7 @@
     "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1",
     "resize-observer-polyfill": "^1.5.1",
-    "three": "^0.115.0"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-0",
